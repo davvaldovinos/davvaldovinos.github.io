@@ -13,11 +13,7 @@
                 $('nav').removeClass('sticky');
             }
       },{
-<<<<<<< HEAD
-        offset: -20
-=======
         offset: '-20px;'
->>>>>>> d002588636326db546eea5a36741b7eb3f3b95c9
       });
         
     /* Scroll on buttons */
